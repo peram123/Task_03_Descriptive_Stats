@@ -31,9 +31,7 @@ The goal is to generate identical statistical summaries with all three methods, 
 
 1. **Download the dataset** from the provided [link](https://drive.google.com/file/d/1Jq0fPb-tq76Ee_RtM58fT0_M3o-JDBwe/view?usp=sharing).
 
-2. **Do NOT commit dataset files to the repository**.
-
-3. **Run each script** from the command line, providing your data file:
+2. **Run each script** from the command line, providing your data file:
 
    ```bash
    python pure_python_stats.py <dataset.csv>
